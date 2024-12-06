@@ -1,3 +1,5 @@
 ipykernel
 tqdm
+torch
+opencv-python
 ultralytics
