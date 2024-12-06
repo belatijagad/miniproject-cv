@@ -1,0 +1,7 @@
+names:
+- mario
+nc: 1
+path: /Users/belatijagadbintangsyuhada/Documents/Projects/miniproject-cv/videos/MarioHTV.v1i.yolov11
+test: /Users/belatijagadbintangsyuhada/Documents/Projects/miniproject-cv/videos/MarioHTV.v1i.yolov11/test/images
+train: /Users/belatijagadbintangsyuhada/Documents/Projects/miniproject-cv/videos/MarioHTV.v1i.yolov11/test/images
+val: /Users/belatijagadbintangsyuhada/Documents/Projects/miniproject-cv/videos/MarioHTV.v1i.yolov11/test/images
